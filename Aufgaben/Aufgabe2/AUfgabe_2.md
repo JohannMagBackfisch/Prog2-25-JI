@@ -25,6 +25,7 @@ ich dann master in end gemerged habe öffnete sich nano, damit ich eine merge me
 dann musste ich nur speichern und schließen. Dann wie gesagt auf master wechseln und end in
 master mergen. Das war dann ein fast forward merge ohne Konflikte etc.
 
+
 Katzencafe
 
 Warum sind die von Ihnen fomulierten Testfälle relevant?
