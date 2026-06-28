@@ -1,0 +1,1 @@
+Projekt Zoo liegt ist jetzt hochgeladen. Aufgabe 3 wie gefordert in der readme. auch einzelne begründungen zu betsimmten aufgaben liegen in der readme. 
